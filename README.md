@@ -90,3 +90,4 @@ Assets/
 2. Navigate to `Assets/Scenes/` in the Project window and open `RoboSight_Main.unity`.
 3. Press the **Play** button at the top of the Unity Editor.
 4. Navigate the robotic camera through the warehouse to observe dynamic real-time visibility detection and color updates on crates, barrels, and pallets.
+
